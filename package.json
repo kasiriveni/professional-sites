@@ -1,0 +1,19 @@
+{
+  "name": "professional-sites",
+  "version": "0.0.1",
+  "description": "tracking your professional websites in web",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "lite-server -c config/bs-config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasiriveni/professional-sites.git"
+  },
+  "author": "Kasiriveni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasiriveni/professional-sites/issues"
+  },
+  "homepage": "https://github.com/kasiriveni/professional-sites#readme"
+}
